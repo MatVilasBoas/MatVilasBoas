@@ -16,7 +16,6 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-# 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=MatVilasBoas&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MatVilasBoas&theme=neon&hide_border=false"  width="400px" />
+# Linguagens:
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=MatVilasBoas&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
