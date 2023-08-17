@@ -1,7 +1,6 @@
 # 👋 Sobre Mim
 
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.uscs.edu.br/">USCS</a>.
-<br>
 
 # Minhas Skills
 
