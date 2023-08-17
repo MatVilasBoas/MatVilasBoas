@@ -2,7 +2,7 @@
 
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.uscs.edu.br/">USCS</a>.
 
-# Minhas Skills
+# 💻 Minhas Skills
 
 **Aplicações:**
 
@@ -17,9 +17,12 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 <br>
 
-# Linguagens:
+# 📊 Linguagens:
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=MatVilasBoas&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Social:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kibum.png)
+# 🌐 Social:
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
