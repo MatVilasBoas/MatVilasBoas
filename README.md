@@ -23,5 +23,4 @@
 
 # 🌐 Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mat_vboas?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xjxpnqtZ)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/VboasMat?t=62i8s7iAMlwd4H22ZFvvMw&s=09)
