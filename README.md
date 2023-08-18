@@ -17,7 +17,7 @@
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 <br>
 
-# 📊 Status:
+# 📊 Estatísticas:
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=MatVilasBoas&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -25,4 +25,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mat_vboas?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/xjxpnqtZ)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/VboasMat?t=62i8s7iAMlwd4H22ZFvvMw&s=09)
- 
