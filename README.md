@@ -19,7 +19,7 @@
 
 # 📊 Status:
 
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=MatVilaoas&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=MatVilasBoas&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 🌐 Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mat_vboas?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
