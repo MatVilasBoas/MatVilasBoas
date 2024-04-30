@@ -1,7 +1,7 @@
 # 👋 Sobre Mim
 
 - 🎓 Estudando **Análise e Desenvolvimento de Sistemas** na <a href="https://www.uscs.edu.br/">USCS</a>.
-- 🎓 Estagiando na <a href="https://www.mpf.mp.br/regiao3">Procuradoria Regional da República</a>.
+- 💼 Estagiando **Redes e Infraestrutura** na <a href="https://www.mpf.mp.br/regiao3">Procuradoria Regional da República</a>.
 
 # 💻 Minhas Skills
 
