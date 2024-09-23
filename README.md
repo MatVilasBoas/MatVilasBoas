@@ -9,6 +9,7 @@
 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.w3schools.com/java/java_intro.asp)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://www.w3schools.com/js/js_intro.asp)
+[![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/pt)
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://www.w3schools.com/cs/cs_intro.php)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/html_intro.asp)
 [![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/css_intro.asp)
@@ -25,7 +26,7 @@
 # 📊 Estatísticas:
 
 ![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=MatVilasBoas&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api??username=MatVilasBoas&theme=neon&hide)
 
 # 🌐 Social:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mat_vboas?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/VboasMat?t=62i8s7iAMlwd4H22ZFvvMw&s=09) 
